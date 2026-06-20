@@ -6,6 +6,10 @@ Multi-agent story-world engine workspace built on repository-harness.
 
 Turn any software repo into an agent-ready workspace.
 
+For local-only artifacts that are intentionally not committed, including
+`arena-library/`, generated run outputs, Harness local state, and OpenCode
+cache files, see `docs/LOCAL_ENVIRONMENT.md`.
+
 `repository-harness` is a repository-level operating harness for Claude Code,
 Codex, Cursor, and other coding agents. It gives agents the missing project
 context they need before they change code: where to start, what the product

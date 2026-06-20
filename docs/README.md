@@ -13,6 +13,9 @@ future user-provided spec.
 - `HARNESS_BACKLOG.md`: legacy improvement list; current improvement records
   are stored with `scripts/bin/harness-cli backlog`.
 - `GLOSSARY.md`: shared terms.
+- `LOCAL_ENVIRONMENT.md`: local-only artifact inventory and rebuild commands for
+  ignored research folders, run outputs, Harness CLI/database, and OpenCode
+  setup.
 
 ## Folders
 
